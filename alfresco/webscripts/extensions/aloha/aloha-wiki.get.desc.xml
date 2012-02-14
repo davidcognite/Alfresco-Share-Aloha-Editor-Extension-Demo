@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Aloha Editor Wiki</shortname>
+    <url>/extensions/aloha/wiki</url>
+    <description>This is a proof of concept of using the Aloha Editor ( http://aloha-editor.org/ ) for in-situ editing on the Wiki page</description>
+    <lifecycle>sample</lifecycle>
+    <family>Sample</family>
+</webscript>

@@ -1,0 +1,19 @@
+<extension>
+   <modules>
+      <module>
+         <id>Aloha Editor Wiki</id>
+         <components>
+            <component>
+               <region-id>toolbar</region-id>
+               <source-id>wiki-page</source-id>
+               <scope>template</scope>
+               <sub-components>
+                  <sub-component id="alohaWiki" index="25">
+                     <url>/extensions/aloha/wiki</url>
+                  </sub-component>
+               </sub-components>
+            </component>
+         </components>
+      </module>
+   </modules>
+</extension>
